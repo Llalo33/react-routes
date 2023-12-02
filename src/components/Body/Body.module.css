@@ -1,0 +1,36 @@
+.bodySquare {
+    justify-content: center;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(108, 108, 108);
+    display: flex;
+    align-items: center;
+}
+
+.contPage {
+   color: azure;
+   text-align: center;
+}
+
+.contText {
+    color: azure;
+    text-align: center;
+}
+
+button {
+    width: 180px;
+    height: 60px;
+    background-color: azure;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bodyCont {
+    width: 50%;
+}
+
+.contBut {
+    text-align: center;
+}
